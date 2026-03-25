@@ -15,4 +15,13 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Sahilmore469&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
