@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Sahil More 👨‍💻<br>A passionate Computer Engineering student who loves turning ideas into real-world applications through code.<br><br>I have a strong foundation in C, C++, and Data Structures & Algorithms, and I’m continuously expanding my skills in Full-Stack Web Development and Android App Development. I enjoy solving logical problems, building efficient systems, and learning new technologies that improve performance and user experience.<br><br>Currently, I’m exploring:<br><br>🌐 Full-Stack Development (Frontend + Backend)<br><br>📱 Android App Development<br><br>📊 Data Analysis & Visualization using Power BI<br><br>⚙️ System Programming & Core CS Concepts<br><br>I believe in learning by building, so you’ll find a mix of academic projects, practice problems, and real-world applications in my repositories.<br>
 
+https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilmore45) 
