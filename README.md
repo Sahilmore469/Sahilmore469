@@ -113,9 +113,9 @@ Mindset  : "Ship it. Learn from it."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sahilmore469&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&card_width=470" height="185"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sahilmore469&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&card_width=470" height="185"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilmore469&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=310" height="185"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sahilmore469&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=310" height="185"/>
 
 <br/>
 
@@ -142,8 +142,6 @@ Mindset  : "Ship it. Learn from it."
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sahilmore469/Sahilmore469/output/github-snake.svg" width="95%"/>
 </picture>
 </div>
-
-> ⚠️ **To enable snake animation:** Create a GitHub Actions workflow using [Platane/snk](https://github.com/Platane/snk) and it will auto-generate the SVG on every push.
 
 ---
 
