@@ -117,10 +117,6 @@ Mindset  : "Ship it. Learn from it."
 
 <br/>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sahilmore469&theme=dark" alt="GitHub Streak" /></a>
-
-</div>
-
 ---
 
 ## 📈 Activity Graph
