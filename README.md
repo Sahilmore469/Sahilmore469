@@ -113,9 +113,7 @@ Mindset  : "Ship it. Learn from it."
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sahilmore469&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&card_width=470" height="185"/>
-&nbsp;
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sahilmore469&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=310" height="185"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sahilmore469&theme=dark)](https://git.io/streak-stats)
 
 <br/>
 
