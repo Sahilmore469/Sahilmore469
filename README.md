@@ -117,7 +117,7 @@ Mindset  : "Ship it. Learn from it."
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Sahilmore469&theme=tokyonight&hide_border=true&card_width=800" height="185"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sahilmore469&theme=dark" alt="GitHub Streak" /></a>
 
 </div>
 
